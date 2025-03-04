@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bash,linux,nodejs,express,solidity" height="42"/><a href=''>
 	  <img style="margin: 10px" src="https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" alt="ethers.js" height="42">
 </p>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="500px"> 
+<!--   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="500px"> 
 	  <br>
    <img src="./img/aave.png" width="42" >
    <img src="./img/Arbitrum.png" width="42" >
@@ -31,7 +31,7 @@
    <img src="./img/Ethereum..png" width="42" >
    <img src="./img/oz.png" width="42" >
    <img src="./img/polygon.png" width="42" >
-   <img src="./img/Uniswap.png" width="42" >
+   <img src="./img/Uniswap.png" width="42" > -->
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <h2>GitHub stats</h2>
