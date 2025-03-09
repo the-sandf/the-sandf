@@ -32,7 +32,7 @@
    <img src="./img/oz.png" width="42" >
    <img src="./img/polygon.png" width="42" >
    <img src="./img/Uniswap.png" width="42" > -->
-<br>
+<!-- <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <h2>GitHub stats</h2>
 <table>
@@ -43,7 +43,7 @@
 		<td>
 			<img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=the-sandf&show_icons=true&theme=github_dark&layout=compact&langs_count=8" />
 		</td>
-	</tr>
+	</tr> -->
 </table>
 <div style="background-color: black; padding: 10px; display: inline-block; border-radius: 8px;">
     <a href='https://archiveprogram.github.com/'><img src='./img/archive.gif' width='35' height='35' background-color='hsl(216deg 27.78% 7.06%)'></a> 
