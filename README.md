@@ -1,9 +1,9 @@
 <div align="center">
-	<p align="center" style="padding: 50px; position: relative; width: 80%; margin: auto;">
+<!-- 	<p align="center" style="padding: 50px; position: relative; width: 80%; margin: auto;">
         <a href="">
 		<img src="./img/logo.png" alt="" width="520px" height="40px"/>
   	</a>
-    </p>
+    </p> -->
   <br>
 <div align="left">
 <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0026.gif" border="0" alt="animated-computer-image-0026" width="50px" height="50px"/></a>  About Me...                                   
